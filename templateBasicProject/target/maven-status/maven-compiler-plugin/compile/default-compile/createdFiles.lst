@@ -1,0 +1,5 @@
+ea\templateBasicProject\dao\ClienteDAO.class
+ea\templateBasicProject\repository\ClienteRepository.class
+ea\templateBasicProject\ClienteApplication.class
+ea\templateBasicProject\Controller\ClienteController.class
+ea\templateBasicProject\model\Cliente.class
